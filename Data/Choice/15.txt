@@ -1,0 +1,6 @@
+(A) The lithium-ion battery is also a low maintenance battery.
+(B) Despite its overall advantages, the lithium-ion battery has its drawbacks.
+(C) New and enhanced chemical combinations are introduced every six months or so.
+(D) Attempts to develop rechargeable lithium-ion batteries failed due to memory problems.
+(E) That is, they carry more power in a smaller unit, helping to reduce overall weight and size.
+(F) Another downside is the increase of the internal resistance that occurs with cycling and aging.
